@@ -17,7 +17,7 @@
 ### Imagens do projeto
 
 **Parte superior** 
-**Bloco 01: **
+**Bloco 01:**
 
 
 
