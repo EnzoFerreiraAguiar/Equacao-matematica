@@ -22,6 +22,7 @@
 
 **Bloco 01:** Execução do primeiro bloco de instruções.
 
-![TBloco 01]()
+![TBloco 01 (foto 01](https://github.com/EnzoFerreiraAguiar/Equacao_Matematica/blob/master/Imagens_Da_Equacao/Parte_Superior/Bloco_01/01.png)
+![TBloco 01 (foto 02]()
 
 
